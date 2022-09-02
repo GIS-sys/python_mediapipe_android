@@ -7,7 +7,7 @@ from kivy.uix.label import Label
 
 class ButtonApp(App):
     def build(self):
-        self.label = Label(text="It's alive!")
+        self.label = Label(text="МИНЦ")
         return self.label
 
     
